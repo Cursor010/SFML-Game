@@ -15,19 +15,14 @@ This project is a simple offline game. The game is a platformer with a static ca
 + The Game;
 
 ## Screenshots:
-![Menu](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png) |
-![Settings](https://github.com/Cursor010/SFML-Game/tree/main/screenshots/Settings.png) |
-![Pause](https://github.com/Cursor010/SFML-Game/tree/main/screenshots/Pause.png) |
-![Gameplay](https://github.com/Cursor010/SFML-Game/tree/main/screenshots/GamePlay.png) |
-
-| Main Screen | Chronology | Weight Tracking |
+| Menu | Settings | Pause |
 |-------------|------------|-----------------|
-| ![Main](https://github.com/Cursor010/ABL-fit/blob/main/img/Main.jpg) | ![Сhronology](https://github.com/Cursor010/ABL-fit/blob/main/img/Trainings.png) | ![Weight](https://github.com/Cursor010/ABL-fit/blob/main/img/Weight.jpg) |
+![Menu](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png) |
+![Settings](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Settings.png) |
+![Pause](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Pause.png) |
 
-| Settings | Add Training | Notes |
-|----------|--------------|-------|
-| ![Settings](https://github.com/Cursor010/ABL-fit/blob/main/img/Settings.png) | ![AddTrain](https://github.com/Cursor010/ABL-fit/blob/main/img/AddTrain.png) | ![Notes](https://github.com/Cursor010/ABL-fit/blob/main/img/Notes.png) |
-
+| Gameplay |
+![Gameplay](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png) |
 
 ## Feature: 
 + Easy to implement;
