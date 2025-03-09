@@ -21,7 +21,9 @@ This project is a simple offline game. The game is a platformer with a static ca
 
 | Gameplay |
 |----------|
-| ![Gameplay](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png) |
+| <div align="center">
+  <img src="https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png" alt="Gameplay" />
+</div> |
 
 ## Feature: 
 + Easy to implement;
