@@ -15,7 +15,7 @@ This project is a simple offline game. The game is a platformer with a static ca
 + The Game;
 
 ## Screenshots:
-![Menu](https://github.com/Cursor010/SFML-Game/tree/main/screenshots/Menu.png) |
+![Menu](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png) |
 ![Settings](https://github.com/Cursor010/SFML-Game/tree/main/screenshots/Settings.png) |
 ![Pause](https://github.com/Cursor010/SFML-Game/tree/main/screenshots/Pause.png) |
 ![Gameplay](https://github.com/Cursor010/SFML-Game/tree/main/screenshots/GamePlay.png) |
