@@ -1,49 +1,72 @@
 <p align="center">
-  <a href="#about project">About project</a> |
-  <a href="#screenshots">Screenshots</a> |
-  <a href="#feature">Feature</a> |
-  <a href="#building">Building</a> |
-  <a href="#management">Management</a> |
+  <a href="#-about-project">About Project</a> •
+  <a href="#-screenshots">Screenshots</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-building">Building</a> •
+  <a href="#-controls">Controls</a>
 </p>
 
-## About project:
-This project is a simple offline game. The game is a platformer with a static camera. 
-### The project includes: 
-+ Menu;
-+ Settings;
-+ Section about the game;
-+ The Game;
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ 17">
+  <img src="https://img.shields.io/badge/SFML-2.5.1-green?style=for-the-badge&logo=sfml" alt="SFML 2.5.1">
+  <img src="https://img.shields.io/badge/Platform-Windows-orange?style=for-the-badge&logo=windows" alt="Windows">
+</p>
 
-## Screenshots:
-| Menu | Settings | Pause |
-|------|----------|-------|
-| ![Menu](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Menu.png) | ![Settings](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Settings.png) | ![Pause](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Pause.png) |
+<h1 align="center">🎮 DETH JUMP - 2D Platformer Game</h1>
 
-<div align="center"><img src="https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png" alt="Gameplay" /></div>
+<p align="center">
+  A simple yet engaging 2D platformer game built with SFML 2.5.1 featuring smooth controls and minimalist design.
+</p>
 
-## Feature: 
-+ Easy to implement;
+## 📋 About Project
 
-## Building: 
+**DETH JUMP** is a classic 2D platformer game with a static camera perspective. Navigate through challenging levels, avoid obstacles, and test your reflexes in this offline gaming experience.
 
-Path to the SFML library folder: C:\Projects_C++\SFML_Game\SFML_Game\sfml\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1
+### 🎯 Project Structure
+- **Main Menu** - Game entry point with navigation options
+- **Settings** - Customizable game preferences
+- **About Section** - Game information and credits
+- **Gameplay** - Core platforming experience with responsive controls
 
-Visual Studio -> Run Debug x64
+## 🖼️ Screenshots
 
-Visual Studio -> Run Release x64
+<div align="center">
 
-Path to the SFML 2.5.1 (Visual C++ 15 (2017) - 64-bit) library folder: 
+### Main Menu
+![Main Menu](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Menu.png)
+
+### Game Settings
+![Settings](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Settings.png)
+
+### In-Game Pause
+![Pause Menu](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/Pause.png)
+
+### Gameplay Showcase
+![Gameplay](https://github.com/Cursor010/SFML-Game/blob/main/screenshots/GamePlay.png)
+
+</div>
+
+## ✨ Features
+
+✅ **Complete Game System** - Full game loop with menu, gameplay, and pause states  
+✅ **Responsive Controls** - Smooth keyboard-based movement and jumping  
+✅ **Customizable Settings** - Adjustable game preferences  
+✅ **Clean UI Design** - Minimalist interface with clear visual feedback  
+✅ **Static Camera** - Fixed perspective for consistent gameplay experience  
+✅ **Cross-Build Support** - Both Debug and Release configurations available  
+
+## 🛠️ Building & Compilation
+
+### 📍 Prerequisites
+- **SFML 2.5.1** (Visual C++ 15 - 64-bit)
+- **CMake 3.15+**
+- **Visual Studio 2017+** with C++ support
+
+### 🔧 Setup SFML Path
+Set the SFML library path to:
+```text
 C:\Projects_C++\SFML_Game\SFML_Game\sfml\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1
-
-Catalog of books with folders with CMakeLists.txt
-
-cmake -S . -B build
-
-cmake --build build --config Release
-
-cmake --build build --config Debug
-
-Project DETH JUMP to assign as a startup project
+```
 
 ## Management:
 + Enter - enter
