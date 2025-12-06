@@ -1,3 +1,7 @@
+[![Qt](https://img.shields.io/badge/Qt-6.0%2B-green.svg)](https://www.qt.io/)
+[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 <p align="center">
   <a href="#-about-project">About Project</a> •
   <a href="#-screenshots">Screenshots</a> •
@@ -5,10 +9,6 @@
   <a href="#-building">Building</a> •
   <a href="#-controls">Controls</a>
 </p>
-
-[![Qt](https://img.shields.io/badge/Qt-6.0%2B-green.svg)](https://www.qt.io/)
-[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <h1 align="center">🎮 DETH JUMP - 2D Platformer Game</h1>
 
