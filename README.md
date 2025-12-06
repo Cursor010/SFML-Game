@@ -6,11 +6,9 @@
   <a href="#-controls">Controls</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ 17">
-  <img src="https://img.shields.io/badge/SFML-2.5.1-green?style=for-the-badge&logo=sfml" alt="SFML 2.5.1">
-  <img src="https://img.shields.io/badge/Platform-Windows-orange?style=for-the-badge&logo=windows" alt="Windows">
-</p>
+[![Qt](https://img.shields.io/badge/Qt-6.0%2B-green.svg)](https://www.qt.io/)
+[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <h1 align="center">🎮 DETH JUMP - 2D Platformer Game</h1>
 
